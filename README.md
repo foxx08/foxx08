@@ -14,6 +14,7 @@
 foxx08/foxx08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<script src="https://tryhackme.com/badge/999301"></script>
 
 </code></pre></div>
 <!--<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/FoxMaccloud/FoxMaccloud/blob/main/assets/cp2221.gif"><img src="/FoxMaccloud/FoxMaccloud/raw/main/assets/cp2221.gif" alt="screen-gif" style="max-width: 100%;"></a></p>-->
